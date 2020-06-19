@@ -1,0 +1,25 @@
+{
+  "name": "full-screen-youtube",
+  "version": "1.0.0",
+  "description": "Add a full-screen, looping YouTube background to your website. ES6, zero dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awdltd/full-screen-youtube.git"
+  },
+  "keywords": [
+    "youtube",
+    "video",
+    "full-screen",
+    "background"
+  ],
+  "author": "Advanced Web Designs Ltd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awdltd/full-screen-youtube/issues"
+  },
+  "homepage": "https://github.com/awdltd/full-screen-youtube#readme"
+}
